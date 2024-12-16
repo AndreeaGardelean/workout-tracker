@@ -19,7 +19,7 @@ Add detailed records of your workouts, including:
 - Specific exercises performed.
 - Progress photos.
 - Additional notes to track your fitness journey.
-  Streak Motivation: See your streaks grow as you consistently engage in your habits, motivating you to keep going.
+- Streak Motivation: See your streaks grow as you consistently engage in your habits, motivating you to keep going.
 
 ## Getting Started
 
