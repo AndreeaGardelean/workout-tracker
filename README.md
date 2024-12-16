@@ -37,4 +37,4 @@ To run the application locally, follow these steps:
 
 3. Start the application:
 
-   `npm run start`
+   `npm start`
