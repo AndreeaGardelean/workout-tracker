@@ -16,3 +16,9 @@ input {
   width: 20%;
   background-color: #f2f2f2;
 }
+
+.deleteField {
+  transform: rotate(45deg);
+  display: flex;
+  align-self: flex-end;
+}
