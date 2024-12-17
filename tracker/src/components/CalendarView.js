@@ -4,9 +4,7 @@ import Calendar from "react-calendar";
 
 const CalendarView = () => {
   // event handler for when a day is clicked
-  const dayCLick = (v, e) => {
-    console.log("Click on day: ", v);
-  };
+  const dayCLick = (v, e) => {};
 
   return (
     <div className="calendar">
