@@ -3,6 +3,7 @@ import "../style/activity.css";
 import ActivityField from "./ActivityField";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlus } from "@fortawesome/free-solid-svg-icons";
+import ImagePicker from "./ImagePIcker";
 
 const Activity = ({ data }) => {
   const [fields, setFields] = useState([
@@ -32,6 +33,7 @@ const Activity = ({ data }) => {
           activityLabel={field.label}
         />
       ))}
+      <ImagePicker />
     </form>
   );
 };

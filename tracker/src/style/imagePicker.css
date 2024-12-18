@@ -1,0 +1,28 @@
+.imagePicker {
+  background-color: #f2f2f2;
+  height: 10rem;
+  width: 10rem;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pickerIcon {
+  height: 2rem;
+  width: 2rem;
+}
+
+p {
+  font-size: 10px;
+}
+
+#fileInput {
+  display: none;
+}
