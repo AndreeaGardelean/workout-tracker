@@ -7,11 +7,9 @@ const ActivityField = ({ activityId, activityLabel }) => {
   const deleteField = (e) => {
     const form = document.getElementById("workoutForm");
     const target = e.target.closest(".activity");
-
     if (target) {
       form.removeChild(target);
     }
-    // form.removeChild(e.target.closest(activityId));
   };
 
   return (
